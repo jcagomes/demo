@@ -5,5 +5,5 @@ iiii
 ## Purpose
 testa
 
-## How to clalalal
+## How to contritute
 Add discript
