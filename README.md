@@ -5,5 +5,5 @@ iiii
 ## Purpose
 testa
 
-## How to contribute
+## How to clalalal
 Add discript
